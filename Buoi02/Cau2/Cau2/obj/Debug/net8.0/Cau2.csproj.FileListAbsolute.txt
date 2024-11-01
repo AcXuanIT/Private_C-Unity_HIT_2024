@@ -1,0 +1,14 @@
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\bin\Debug\net8.0\Cau2.exe
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\bin\Debug\net8.0\Cau2.deps.json
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\bin\Debug\net8.0\Cau2.runtimeconfig.json
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\bin\Debug\net8.0\Cau2.dll
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\bin\Debug\net8.0\Cau2.pdb
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\obj\Debug\net8.0\Cau2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\obj\Debug\net8.0\Cau2.AssemblyInfoInputs.cache
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\obj\Debug\net8.0\Cau2.AssemblyInfo.cs
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\obj\Debug\net8.0\Cau2.csproj.CoreCompileInputs.cache
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\obj\Debug\net8.0\Cau2.dll
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\obj\Debug\net8.0\refint\Cau2.dll
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\obj\Debug\net8.0\Cau2.pdb
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\obj\Debug\net8.0\Cau2.genruntimeconfig.cache
+C:\Users\phucx\Desktop\C\Buoi02\Cau2\Cau2\obj\Debug\net8.0\ref\Cau2.dll
