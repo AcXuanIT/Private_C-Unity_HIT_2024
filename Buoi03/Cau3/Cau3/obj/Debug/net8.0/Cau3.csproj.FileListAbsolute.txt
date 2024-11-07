@@ -1,0 +1,14 @@
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\bin\Debug\net8.0\Cau3.exe
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\bin\Debug\net8.0\Cau3.deps.json
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\bin\Debug\net8.0\Cau3.runtimeconfig.json
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\bin\Debug\net8.0\Cau3.dll
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\bin\Debug\net8.0\Cau3.pdb
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\obj\Debug\net8.0\Cau3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\obj\Debug\net8.0\Cau3.AssemblyInfoInputs.cache
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\obj\Debug\net8.0\Cau3.AssemblyInfo.cs
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\obj\Debug\net8.0\Cau3.csproj.CoreCompileInputs.cache
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\obj\Debug\net8.0\Cau3.dll
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\obj\Debug\net8.0\refint\Cau3.dll
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\obj\Debug\net8.0\Cau3.pdb
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\obj\Debug\net8.0\Cau3.genruntimeconfig.cache
+C:\Users\phucx\Desktop\C#\Buoi03\Cau3\Cau3\obj\Debug\net8.0\ref\Cau3.dll
