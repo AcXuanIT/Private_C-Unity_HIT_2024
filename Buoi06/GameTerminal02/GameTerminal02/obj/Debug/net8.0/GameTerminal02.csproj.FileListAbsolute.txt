@@ -1,0 +1,15 @@
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\GameTerminal02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\GameTerminal02.AssemblyInfoInputs.cache
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\GameTerminal02.AssemblyInfo.cs
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\GameTerminal02.csproj.CoreCompileInputs.cache
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\GameTerminal02.sourcelink.json
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\bin\Debug\net8.0\GameTerminal02.exe
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\bin\Debug\net8.0\GameTerminal02.deps.json
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\bin\Debug\net8.0\GameTerminal02.runtimeconfig.json
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\bin\Debug\net8.0\GameTerminal02.dll
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\bin\Debug\net8.0\GameTerminal02.pdb
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\GameTerminal02.dll
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\refint\GameTerminal02.dll
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\GameTerminal02.pdb
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\GameTerminal02.genruntimeconfig.cache
+C:\Users\phucx\Desktop\C#\Buoi05\GameTerminal02\GameTerminal02\obj\Debug\net8.0\ref\GameTerminal02.dll
