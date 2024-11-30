@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HITBank", "HITBank\HITBank.csproj", "{0D603C36-B8B0-4837-864E-99313CAFD713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D603C36-B8B0-4837-864E-99313CAFD713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D603C36-B8B0-4837-864E-99313CAFD713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D603C36-B8B0-4837-864E-99313CAFD713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D603C36-B8B0-4837-864E-99313CAFD713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8827C6DE-8486-4B73-8E22-CC96D76166F7}
+	EndGlobalSection
+EndGlobal

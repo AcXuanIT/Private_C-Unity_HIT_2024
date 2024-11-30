@@ -1,0 +1,15 @@
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\bin\Debug\net8.0\HITBank.exe
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\bin\Debug\net8.0\HITBank.deps.json
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\bin\Debug\net8.0\HITBank.runtimeconfig.json
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\bin\Debug\net8.0\HITBank.dll
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\bin\Debug\net8.0\HITBank.pdb
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\HITBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\HITBank.AssemblyInfoInputs.cache
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\HITBank.AssemblyInfo.cs
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\HITBank.csproj.CoreCompileInputs.cache
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\HITBank.sourcelink.json
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\HITBank.dll
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\refint\HITBank.dll
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\HITBank.pdb
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\HITBank.genruntimeconfig.cache
+C:\Users\phucx\Desktop\C#\Buoi07\HITBank\HITBank\obj\Debug\net8.0\ref\HITBank.dll
